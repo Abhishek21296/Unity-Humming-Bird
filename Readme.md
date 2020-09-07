@@ -24,7 +24,7 @@ Use the `Hummingbird.nn` file in the directory specified in `--run-id` parameter
 
 ## Sample Output
 
-![Cumulative Reward](img/cum_reward.png)
+![Cumulative Reward](img/cum_reward.PNG)
 
 
 # Playing Against the Trained Agent
